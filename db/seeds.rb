@@ -1,7 +1,5 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+Tweet.create(title: "a man in the forest", body: "a man is getting lost in the dark forest and find beautiful sky", image: "https://images.pexels.com/photos/753994/pexels-photo-753994.jpeg")
+Tweet.create(title: "a man in the forest", body: "a man is getting lost in the dark forest and find beautiful sky", image: "https://images.pexels.com/photos/753994/pexels-photo-753994.jpeg")
+Tweet.create(title: "a man in the forest", body: "a man is getting lost in the dark forest and find beautiful sky", image: "https://images.pexels.com/photos/753994/pexels-photo-753994.jpeg")
+Tweet.create(title: "a man in the forest", body: "a man is getting lost in the dark forest and find beautiful sky", image: "https://images.pexels.com/photos/753994/pexels-photo-753994.jpeg")
+Tweet.create(title: "a man in the forest", body: "a man is getting lost in the dark forest and find beautiful sky", image: "https://images.pexels.com/photos/753994/pexels-photo-753994.jpeg")
